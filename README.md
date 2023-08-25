@@ -1,6 +1,6 @@
 # Day 25
 
-In order to correctly get the color effect, please fallow all instructions below.
+In order to correctly get the color effect, please fallow all instructions below:
 
 1. Boot your raspberry pi and type `sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel`
 2. Connect the `5v` and `GND` pins on the LED strip or ring to `5 Volts` and `GND` on the raspberry pi
